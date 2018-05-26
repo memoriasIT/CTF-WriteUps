@@ -7,6 +7,5 @@
 
 <ul>
 <li><h3> 11Paths CTF </h3>
-  SOLVED: 26/5/2018<h4> Fun and easy ctf to solve.</h4></li>
-  
+  <h6>SOLVED: 26/5/2018 | Fun and easy ctf to solve.</h6></li>
 </ul>
